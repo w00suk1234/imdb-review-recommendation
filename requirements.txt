@@ -1,2 +1,7 @@
-#TensorFlow, Googletrans, Matplotlib, IMDb 데이터셋
+기술 스택
 
+Python: 데이터 처리 및 추천 시스템 구현.
+TensorFlow: 리뷰 데이터를 벡터화하고 유사도를 계산.
+Googletrans: 한국어와 영어 간 번역 처리.
+Matplotlib: 추천 결과 시각화.
+IMDb 데이터셋: 영화 리뷰 데이터.
