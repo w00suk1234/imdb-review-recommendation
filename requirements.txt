@@ -1,1 +1,2 @@
+#TensorFlow, Googletrans, Matplotlib, IMDb 데이터셋
 
