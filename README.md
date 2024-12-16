@@ -1,7 +1,7 @@
-# imdb-review-recommendation
+# IMDB-review-recommendation
 imdb 데이터를 활용한 리뷰 유사도 분석
 
-# IMDb 텍스트 기반 추천 시스템
+# IMDB 텍스트 기반 추천 시스템
 
 이 프로젝트는 **한국어 입력 리뷰**를 바탕으로 IMDb 영화 리뷰 데이터셋에서 유사한 리뷰를 추천하는 시스템입니다.
 
